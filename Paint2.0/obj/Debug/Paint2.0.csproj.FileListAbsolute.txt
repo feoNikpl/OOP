@@ -1,0 +1,9 @@
+E:\УНИВЕР\ООП\Paint2.0\bin\Debug\Paint2.0.exe.config
+E:\УНИВЕР\ООП\Paint2.0\bin\Debug\Paint2.0.exe
+E:\УНИВЕР\ООП\Paint2.0\bin\Debug\Paint2.0.pdb
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2.0.csprojAssemblyReference.cache
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2._0.Properties.Resources.resources
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2.0.csproj.GenerateResource.cache
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2.0.exe
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2.0.pdb
+E:\УНИВЕР\ООП\Paint2.0\obj\Debug\Paint2._0.MainForm.resources
